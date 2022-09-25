@@ -29,14 +29,14 @@ int main()
         {
             case'G':
                 do{printf("Inserisci un intero positivo: "), scanf("%d", &n);}while(n <= 0);
-                system("clear");
+                system("cls||clear");
                 break;
             case'L':
                 printf("Inserisci un carattere: "), scanf("%c", &carattere);
-                system("clear");
+                system("cls||clear");
                 break;
             case'S':
-                system("clear");
+                system("cls||clear");
                 quadratoPieno();
                 quadratoVuoto();
                 triangoloPienoAsterischi();
