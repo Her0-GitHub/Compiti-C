@@ -32,8 +32,7 @@ int main()
                 system("cls||clear");
                 break;
             case'L':
-                printf("Inserisci un carattere: "), scanf("%c", &carattere);
-                system("cls||clear");
+                printf("Inserisci un carattere: "), scanf("%c", &carattere), system("cls||clear");
                 break;
             case'S':
                 system("cls||clear");
@@ -43,12 +42,11 @@ int main()
                 triangoloVuotoAsterischi();
                 triangoloVuoto();
                 cono();
-                printf("Premi invio per continuare...");
+                printf("Premi invio per continuare..."), scanf( "%*[^\n]" ), scanf( "%*c" );
                 break;
             case'X':
                 exit(0);
         }
-        scanf( "%*[^\n]" ), scanf( "%*c" );
     }
 }
 
