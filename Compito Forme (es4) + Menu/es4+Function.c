@@ -16,23 +16,22 @@ int main()
     char selection;
     while(1)
     {   
-        printf("-------------------- MENU DI SCELTA --------------------\n");
-        printf("G) Imposta Grandezza Forme\n");
-        printf("L) Imposta Lettera Forme\n");
-        printf("S) Stampa Le Forme\n");
-        printf("X) Esci dal programma\n");
-        printf("--------------------------------------------------------\n");
-        scanf("%c", &selection);
-        scanf( "%*[^\n]" ), scanf( "%*c" );
+        printf( "-------------------- MENU DI SCELTA --------------------\n"
+                "G) Imposta Grandezza Forme\n"
+                "L) Imposta Lettera Forme\n"
+                "S) Stampa Le Forme\n"
+                "X) Esci dal programma\n"
+                "--------------------------------------------------------\n");
+        scanf("\n%c", &selection);
         selection = toupper(selection);
         switch (selection)
         {
             case'G':
-                do{printf("Inserisci un intero positivo: "), scanf("%d", &n);}while(n <= 0);
+                do{printf("Inserisci un intero positivo (minimo 4): "), scanf("%d", &n);}while(n <= 3);
                 system("cls||clear");
                 break;
             case'L':
-                printf("Inserisci un carattere: "), scanf("%c", &carattere), system("cls||clear");
+                printf("Inserisci un carattere: "), scanf("\n%c", &carattere), system("cls||clear");
                 break;
             case'S':
                 system("cls||clear");
@@ -42,7 +41,7 @@ int main()
                 triangoloVuotoAsterischi();
                 triangoloVuoto();
                 cono();
-                printf("Premi invio per continuare..."), scanf( "%*[^\n]" ), scanf( "%*c" );
+                printf("Premi invio per continuare..."), getchar(), getchar();
                 break;
             case'X':
                 exit(0);
@@ -93,35 +92,29 @@ void triangoloPienoAsterischi()
 }
 void triangoloVuotoAsterischi()
 {
-    printf("Non funziona\n");
-    /*for(y=1; y<=n; y++) // Triangolo vuoto con triangoloPienoAsterischi
+    for(y=1; y<=n; y++) // Triangolo vuoto con triangoloPienoAsterischi
     {
         for(x=1; x<=n; x++)
         {
-            if(y>1 && x<y)
-            {
-                printf("%c ", carattere);
-            }
-            else printf("* ");
-
+            if((x==1 && y>1 && y!=n) || (y==n && x<y) || (y>2 && x==y-1))  printf("%c ", carattere);
+            else if(y==1 || x==y || x==n)                                    printf("* ");
+            else if(x>y || (y>2 && x<y-1))                                 printf("  ");
         }
         puts("");
-    }*/
+    }
     puts("-------------");
 }
 void triangoloVuoto()
 {
-    printf("Non Funziona\n");
-    /*for(y=1; y<=n; y++) // Triangolo vuoto
+    for(y=1; y<=n; y++) // Triangolo vuoto
     {
         for(x=1; x<=n; x++)
         {
-            if(y==1)  printf("%c ", carattere);
-            else if(y==n)   printf("%c ", carattere);
-            else printf(" ");
+            if((x==1 && y>1 && y!=n) || (y==n && x<y) || (y>2 && x==y-1))  printf("%c ", carattere);
+            else if(y>2 && x<y-1)           printf("  ");
         }
         puts("");
-    }*/
+    }
     puts("-------------");
 }
 void cono()
