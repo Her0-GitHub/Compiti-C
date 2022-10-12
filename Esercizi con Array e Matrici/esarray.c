@@ -95,24 +95,26 @@ void es4()
 
 void es5()
 {
-    int v[4][4] = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}}, r, c, somme[8];
+    int v[4][4] = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}}, r, c, somme[8], somma_max[2];
     for(r=0; r<4; r++)
     {
         somme[r] = 0;
         for(c=0; c<4; c++)
         {
-            somme[c] += v[r][c];
+            somme[r] += v[r][c];
+            //printf("somme[%d]: %d\tv[%d][%d] = %d", c, somme[c], r, c, v[r][c]); debug
         }
     }
     for(c=0; c<4; c++)
-    {   
-        somme[c] = 0;
+    {
+        somme[c+4] = 0;
         for(r=0; r<4; r++)
         {
             somme[c+4] += v[r][c];
+            //printf("somme[%d]: %d\tv[%d][%d] = %d", r+4, somme[r+4], r, c, v[r][c]); debug
         }
     }
-    for(r=0; r<8; r++)      printf("%d\n", somme[r]);
+    for(r=1, somma_max[0]=somme[0]; r<8; r++)      if(somma_max[0]>somme[r])            //printf("somma[%d]: %d\n", r,somme[r]); debug
 }
 
 void separe(){puts("\n--------------------");}
