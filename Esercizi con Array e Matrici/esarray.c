@@ -8,17 +8,19 @@ void es1();
 void es2();
 void es3();
 void es4();
+void es5();
 
 int main()
 {
-    es1();
+    /*es1();
     separe();
     es2();
     separe();
     es3();
     separe();
     es4();
-    separe();
+    separe();*/
+    es5();
 }
 
 void es1()
@@ -89,6 +91,28 @@ void es4()
     }
     if(somme_uguali)    puts("Questa matrice è una somma palindroma per riga!");
     else                puts("Questa matrice non è una somma palindroma per riga!");
+}
+
+void es5()
+{
+    int v[4][4] = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}}, r, c, somme[8];
+    for(r=0; r<4; r++)
+    {
+        somme[r] = 0;
+        for(c=0; c<4; c++)
+        {
+            somme[c] += v[r][c];
+        }
+    }
+    for(c=0; c<4; c++)
+    {   
+        somme[c] = 0;
+        for(r=0; r<4; r++)
+        {
+            somme[c+4] += v[r][c];
+        }
+    }
+    for(r=0; r<8; r++)      printf("%d\n", somme[r]);
 }
 
 void separe(){puts("\n--------------------");}
