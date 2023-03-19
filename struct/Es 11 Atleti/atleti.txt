@@ -1,0 +1,1050 @@
+-----------Atleta n°1-----------
+Nome: Carmela
+Cognome: Barbieri
+Anno di Nascita: 1981
+Specialita: Velocista
+Record: 18.44
+
+-----------Atleta n°2-----------
+Nome: Sergio
+Cognome: Barbieri
+Anno di Nascita: 2001
+Specialita: Fondista
+Record: 23.10
+
+-----------Atleta n°3-----------
+Nome: Pietro
+Cognome: Barbieri
+Anno di Nascita: 1995
+Specialita: Velocista
+Record: 8.03
+
+-----------Atleta n°4-----------
+Nome: Angela
+Cognome: Bianchi
+Anno di Nascita: 1975
+Specialita: Mezzofondo
+Record: 6.67
+
+-----------Atleta n°5-----------
+Nome: Giovanna
+Cognome: Bianchi
+Anno di Nascita: 1973
+Specialita: Mezzofondo
+Record: 22.29
+
+-----------Atleta n°6-----------
+Nome: Elena
+Cognome: Bianchi
+Anno di Nascita: 1980
+Specialita: Mezzofondo
+Record: 7.54
+
+-----------Atleta n°7-----------
+Nome: Lucia
+Cognome: Bianchi
+Anno di Nascita: 1961
+Specialita: Mezzofondo
+Record: 15.87
+
+-----------Atleta n°8-----------
+Nome: Anna
+Cognome: Bianco
+Anno di Nascita: 1994
+Specialita: Mezzofondo
+Record: 10.46
+
+-----------Atleta n°9-----------
+Nome: Rita
+Cognome: Bianchi
+Anno di Nascita: 2000
+Specialita: Fondista
+Record: 16.63
+
+-----------Atleta n°10-----------
+Nome: Giuseppina
+Cognome: Bianco
+Anno di Nascita: 1992
+Specialita: Velocista
+Record: 24.78
+
+-----------Atleta n°11-----------
+Nome: Luciano
+Cognome: Bianco
+Anno di Nascita: 1992
+Specialita: Fondista
+Record: 19.76
+
+-----------Atleta n°12-----------
+Nome: Rita
+Cognome: Bianco
+Anno di Nascita: 1974
+Specialita: Mezzofondo
+Record: 11.18
+
+-----------Atleta n°13-----------
+Nome: Caterina
+Cognome: Bianchi
+Anno di Nascita: 2002
+Specialita: Velocista
+Record: 13.18
+
+-----------Atleta n°14-----------
+Nome: Caterina
+Cognome: Bianco
+Anno di Nascita: 1986
+Specialita: Velocista
+Record: 1.21
+
+-----------Atleta n°15-----------
+Nome: Carla
+Cognome: Bianco
+Anno di Nascita: 1990
+Specialita: Velocista
+Record: 17.13
+
+-----------Atleta n°16-----------
+Nome: Margherita
+Cognome: Bianco
+Anno di Nascita: 1966
+Specialita: Velocista
+Record: 23.62
+
+-----------Atleta n°17-----------
+Nome: Domenico
+Cognome: Bruno
+Anno di Nascita: 1984
+Specialita: Mezzofondo
+Record: 4.57
+
+-----------Atleta n°18-----------
+Nome: Franco
+Cognome: Bruno
+Anno di Nascita: 1962
+Specialita: Velocista
+Record: 15.82
+
+-----------Atleta n°19-----------
+Nome: Aldo
+Cognome: Bruno
+Anno di Nascita: 1968
+Specialita: Mezzofondo
+Record: 0.93
+
+-----------Atleta n°20-----------
+Nome: Teresa
+Cognome: Bruno
+Anno di Nascita: 1972
+Specialita: Mezzofondo
+Record: 19.60
+
+-----------Atleta n°21-----------
+Nome: Carla
+Cognome: Bruno
+Anno di Nascita: 1968
+Specialita: Mezzofondo
+Record: 0.76
+
+-----------Atleta n°22-----------
+Nome: Paolo
+Cognome: Bruno
+Anno di Nascita: 1986
+Specialita: Fondista
+Record: 24.59
+
+-----------Atleta n°23-----------
+Nome: Teresa
+Cognome: Bruno
+Anno di Nascita: 1986
+Specialita: Velocista
+Record: 18.32
+
+-----------Atleta n°24-----------
+Nome: Antonio
+Cognome: Bruno
+Anno di Nascita: 1990
+Specialita: Fondista
+Record: 11.10
+
+-----------Atleta n°25-----------
+Nome: Bruno
+Cognome: Bruno
+Anno di Nascita: 1966
+Specialita: Fondista
+Record: 3.80
+
+-----------Atleta n°26-----------
+Nome: Giovanna
+Cognome: Caruso
+Anno di Nascita: 1998
+Specialita: Velocista
+Record: 24.97
+
+-----------Atleta n°27-----------
+Nome: Rosa
+Cognome: Caruso
+Anno di Nascita: 1985
+Specialita: Fondista
+Record: 23.71
+
+-----------Atleta n°28-----------
+Nome: Antonietta
+Cognome: Caruso
+Anno di Nascita: 1961
+Specialita: Fondista
+Record: 9.90
+
+-----------Atleta n°29-----------
+Nome: Antonietta
+Cognome: Colombo
+Anno di Nascita: 1967
+Specialita: Mezzofondo
+Record: 4.07
+
+-----------Atleta n°30-----------
+Nome: Rita
+Cognome: Colombo
+Anno di Nascita: 1997
+Specialita: Fondista
+Record: 12.21
+
+-----------Atleta n°31-----------
+Nome: Giuseppe
+Cognome: Colombo
+Anno di Nascita: 1975
+Specialita: Velocista
+Record: 5.03
+
+-----------Atleta n°32-----------
+Nome: Carmela
+Cognome: Colombo
+Anno di Nascita: 1992
+Specialita: Mezzofondo
+Record: 3.67
+
+-----------Atleta n°33-----------
+Nome: Concetta
+Cognome: Conte
+Anno di Nascita: 1979
+Specialita: Fondista
+Record: 16.84
+
+-----------Atleta n°34-----------
+Nome: Giorgio
+Cognome: Conte
+Anno di Nascita: 1985
+Specialita: Mezzofondo
+Record: 24.34
+
+-----------Atleta n°35-----------
+Nome: Francesca
+Cognome: Conti
+Anno di Nascita: 1973
+Specialita: Velocista
+Record: 3.43
+
+-----------Atleta n°36-----------
+Nome: Giuseppe
+Cognome: Conti
+Anno di Nascita: 1987
+Specialita: Mezzofondo
+Record: 20.82
+
+-----------Atleta n°37-----------
+Nome: Elena
+Cognome: Conti
+Anno di Nascita: 1978
+Specialita: Fondista
+Record: 12.28
+
+-----------Atleta n°38-----------
+Nome: Bruno
+Cognome: Conte
+Anno di Nascita: 1965
+Specialita: Velocista
+Record: 13.20
+
+-----------Atleta n°39-----------
+Nome: Elena
+Cognome: Conte
+Anno di Nascita: 1985
+Specialita: Fondista
+Record: 9.95
+
+-----------Atleta n°40-----------
+Nome: Teresa
+Cognome: Costa
+Anno di Nascita: 1981
+Specialita: Mezzofondo
+Record: 19.83
+
+-----------Atleta n°41-----------
+Nome: Giuseppe
+Cognome: Costa
+Anno di Nascita: 1978
+Specialita: Fondista
+Record: 10.16
+
+-----------Atleta n°42-----------
+Nome: Giuseppe
+Cognome: De Luca
+Anno di Nascita: 1961
+Specialita: Fondista
+Record: 4.73
+
+-----------Atleta n°43-----------
+Nome: Elena
+Cognome: De Luca
+Anno di Nascita: 1963
+Specialita: Mezzofondo
+Record: 6.98
+
+-----------Atleta n°44-----------
+Nome: Teresa
+Cognome: De Luca
+Anno di Nascita: 1974
+Specialita: Fondista
+Record: 15.08
+
+-----------Atleta n°45-----------
+Nome: Luciano
+Cognome: De Luca
+Anno di Nascita: 1995
+Specialita: Velocista
+Record: 12.53
+
+-----------Atleta n°46-----------
+Nome: Teresa
+Cognome: De Luca
+Anno di Nascita: 1991
+Specialita: Mezzofondo
+Record: 17.70
+
+-----------Atleta n°47-----------
+Nome: Luigi
+Cognome: De Luca
+Anno di Nascita: 1999
+Specialita: Mezzofondo
+Record: 2.05
+
+-----------Atleta n°48-----------
+Nome: Giorgia
+Cognome: Esposito
+Anno di Nascita: 1960
+Specialita: Velocista
+Record: 9.74
+
+-----------Atleta n°49-----------
+Nome: Franca
+Cognome: Esposito
+Anno di Nascita: 1989
+Specialita: Mezzofondo
+Record: 20.04
+
+-----------Atleta n°50-----------
+Nome: Anna
+Cognome: Esposito
+Anno di Nascita: 1995
+Specialita: Velocista
+Record: 21.27
+
+-----------Atleta n°51-----------
+Nome: Angelo
+Cognome: Esposito
+Anno di Nascita: 1992
+Specialita: Fondista
+Record: 6.68
+
+-----------Atleta n°52-----------
+Nome: Salvatore
+Cognome: Esposito
+Anno di Nascita: 2000
+Specialita: Velocista
+Record: 17.72
+
+-----------Atleta n°53-----------
+Nome: Margherita
+Cognome: Esposito
+Anno di Nascita: 2000
+Specialita: Velocista
+Record: 13.21
+
+-----------Atleta n°54-----------
+Nome: Paolo
+Cognome: Farina
+Anno di Nascita: 1977
+Specialita: Fondista
+Record: 14.96
+
+-----------Atleta n°55-----------
+Nome: Teresa
+Cognome: Farina
+Anno di Nascita: 2003
+Specialita: Velocista
+Record: 4.04
+
+-----------Atleta n°56-----------
+Nome: Lucia
+Cognome: Farina
+Anno di Nascita: 1969
+Specialita: Fondista
+Record: 16.71
+
+-----------Atleta n°57-----------
+Nome: Giovanna
+Cognome: Farina
+Anno di Nascita: 1978
+Specialita: Velocista
+Record: 19.59
+
+-----------Atleta n°58-----------
+Nome: Giovanna
+Cognome: Ferri
+Anno di Nascita: 1991
+Specialita: Fondista
+Record: 17.71
+
+-----------Atleta n°59-----------
+Nome: Rosa
+Cognome: Ferrari
+Anno di Nascita: 2004
+Specialita: Mezzofondo
+Record: 22.91
+
+-----------Atleta n°60-----------
+Nome: Angelo
+Cognome: Ferri
+Anno di Nascita: 1961
+Specialita: Mezzofondo
+Record: 4.09
+
+-----------Atleta n°61-----------
+Nome: Francesca
+Cognome: Ferrari
+Anno di Nascita: 1978
+Specialita: Velocista
+Record: 12.08
+
+-----------Atleta n°62-----------
+Nome: Giovanni
+Cognome: Ferri
+Anno di Nascita: 2004
+Specialita: Velocista
+Record: 6.49
+
+-----------Atleta n°63-----------
+Nome: Caterina
+Cognome: Ferrara
+Anno di Nascita: 1961
+Specialita: Mezzofondo
+Record: 17.08
+
+-----------Atleta n°64-----------
+Nome: Angelo
+Cognome: Ferri
+Anno di Nascita: 1998
+Specialita: Velocista
+Record: 14.55
+
+-----------Atleta n°65-----------
+Nome: Teresa
+Cognome: Ferri
+Anno di Nascita: 1961
+Specialita: Mezzofondo
+Record: 1.86
+
+-----------Atleta n°66-----------
+Nome: Franca
+Cognome: Ferrara
+Anno di Nascita: 1985
+Specialita: Fondista
+Record: 8.54
+
+-----------Atleta n°67-----------
+Nome: Luciano
+Cognome: Ferri
+Anno di Nascita: 1969
+Specialita: Mezzofondo
+Record: 8.03
+
+-----------Atleta n°68-----------
+Nome: Pietro
+Cognome: Ferri
+Anno di Nascita: 1985
+Specialita: Fondista
+Record: 17.22
+
+-----------Atleta n°69-----------
+Nome: Maria
+Cognome: Ferrara
+Anno di Nascita: 2000
+Specialita: Fondista
+Record: 15.57
+
+-----------Atleta n°70-----------
+Nome: Domenico
+Cognome: Ferrari
+Anno di Nascita: 1979
+Specialita: Mezzofondo
+Record: 15.13
+
+-----------Atleta n°71-----------
+Nome: Pietro
+Cognome: Ferri
+Anno di Nascita: 1986
+Specialita: Velocista
+Record: 9.69
+
+-----------Atleta n°72-----------
+Nome: Teresa
+Cognome: Fontana
+Anno di Nascita: 1973
+Specialita: Fondista
+Record: 2.33
+
+-----------Atleta n°73-----------
+Nome: Salvatore
+Cognome: Fontana
+Anno di Nascita: 2002
+Specialita: Fondista
+Record: 4.89
+
+-----------Atleta n°74-----------
+Nome: Antonio
+Cognome: Fontana
+Anno di Nascita: 2005
+Specialita: Velocista
+Record: 24.01
+
+-----------Atleta n°75-----------
+Nome: Vincenzo
+Cognome: Gallo
+Anno di Nascita: 1989
+Specialita: Velocista
+Record: 16.98
+
+-----------Atleta n°76-----------
+Nome: Giorgio
+Cognome: Gallo
+Anno di Nascita: 1992
+Specialita: Fondista
+Record: 18.12
+
+-----------Atleta n°77-----------
+Nome: Carlo
+Cognome: Gallo
+Anno di Nascita: 1972
+Specialita: Velocista
+Record: 12.29
+
+-----------Atleta n°78-----------
+Nome: Concetta
+Cognome: Galli
+Anno di Nascita: 1988
+Specialita: Velocista
+Record: 18.13
+
+-----------Atleta n°79-----------
+Nome: Teresa
+Cognome: Galli
+Anno di Nascita: 1976
+Specialita: Velocista
+Record: 17.91
+
+-----------Atleta n°80-----------
+Nome: Elena
+Cognome: Galli
+Anno di Nascita: 1985
+Specialita: Mezzofondo
+Record: 4.85
+
+-----------Atleta n°81-----------
+Nome: Maria
+Cognome: Gatti
+Anno di Nascita: 1980
+Specialita: Fondista
+Record: 9.61
+
+-----------Atleta n°82-----------
+Nome: Michele
+Cognome: Gatti
+Anno di Nascita: 1995
+Specialita: Fondista
+Record: 14.61
+
+-----------Atleta n°83-----------
+Nome: Franca
+Cognome: Gentile
+Anno di Nascita: 1996
+Specialita: Velocista
+Record: 17.08
+
+-----------Atleta n°84-----------
+Nome: Francesca
+Cognome: Giordano
+Anno di Nascita: 1985
+Specialita: Mezzofondo
+Record: 12.67
+
+-----------Atleta n°85-----------
+Nome: Mario
+Cognome: Giordano
+Anno di Nascita: 1998
+Specialita: Velocista
+Record: 2.05
+
+-----------Atleta n°86-----------
+Nome: Giorgio
+Cognome: Greco
+Anno di Nascita: 1985
+Specialita: Mezzofondo
+Record: 7.44
+
+-----------Atleta n°87-----------
+Nome: Giuseppe
+Cognome: Greco
+Anno di Nascita: 1969
+Specialita: Fondista
+Record: 1.38
+
+-----------Atleta n°88-----------
+Nome: Francesco
+Cognome: Greco
+Anno di Nascita: 2000
+Specialita: Velocista
+Record: 11.41
+
+-----------Atleta n°89-----------
+Nome: Giovanna
+Cognome: Greco
+Anno di Nascita: 1968
+Specialita: Mezzofondo
+Record: 18.50
+
+-----------Atleta n°90-----------
+Nome: Paola
+Cognome: Leone
+Anno di Nascita: 1991
+Specialita: Velocista
+Record: 22.03
+
+-----------Atleta n°91-----------
+Nome: Giuseppina
+Cognome: Leone
+Anno di Nascita: 1960
+Specialita: Velocista
+Record: 17.49
+
+-----------Atleta n°92-----------
+Nome: Antonio
+Cognome: Leone
+Anno di Nascita: 2000
+Specialita: Fondista
+Record: 1.32
+
+-----------Atleta n°93-----------
+Nome: Angela
+Cognome: Leone
+Anno di Nascita: 1980
+Specialita: Mezzofondo
+Record: 21.58
+
+-----------Atleta n°94-----------
+Nome: Francesca
+Cognome: Leone
+Anno di Nascita: 2000
+Specialita: Mezzofondo
+Record: 8.82
+
+-----------Atleta n°95-----------
+Nome: Paola
+Cognome: Leone
+Anno di Nascita: 1963
+Specialita: Mezzofondo
+Record: 15.96
+
+-----------Atleta n°96-----------
+Nome: Luciano
+Cognome: Leone
+Anno di Nascita: 1971
+Specialita: Velocista
+Record: 6.80
+
+-----------Atleta n°97-----------
+Nome: Bruno
+Cognome: Lombardi
+Anno di Nascita: 1961
+Specialita: Velocista
+Record: 11.13
+
+-----------Atleta n°98-----------
+Nome: Francesca
+Cognome: Lombardi
+Anno di Nascita: 1979
+Specialita: Fondista
+Record: 22.03
+
+-----------Atleta n°99-----------
+Nome: Sergio
+Cognome: Longo
+Anno di Nascita: 1960
+Specialita: Fondista
+Record: 6.97
+
+-----------Atleta n°100-----------
+Nome: Giorgio
+Cognome: Longo
+Anno di Nascita: 2006
+Specialita: Fondista
+Record: 1.86
+
+-----------Atleta n°101-----------
+Nome: Teresa
+Cognome: Longo
+Anno di Nascita: 1976
+Specialita: Mezzofondo
+Record: 1.71
+
+-----------Atleta n°102-----------
+Nome: Margherita
+Cognome: Mancini
+Anno di Nascita: 1960
+Specialita: Fondista
+Record: 17.09
+
+-----------Atleta n°103-----------
+Nome: Luigi
+Cognome: Mancini
+Anno di Nascita: 1978
+Specialita: Fondista
+Record: 23.71
+
+-----------Atleta n°104-----------
+Nome: Vincenzo
+Cognome: Mancini
+Anno di Nascita: 1963
+Specialita: Fondista
+Record: 5.08
+
+-----------Atleta n°105-----------
+Nome: Giuseppe
+Cognome: Mancini
+Anno di Nascita: 1999
+Specialita: Fondista
+Record: 24.45
+
+-----------Atleta n°106-----------
+Nome: Pietro
+Cognome: Mancini
+Anno di Nascita: 1969
+Specialita: Mezzofondo
+Record: 16.09
+
+-----------Atleta n°107-----------
+Nome: Carlo
+Cognome: Marino
+Anno di Nascita: 1997
+Specialita: Fondista
+Record: 19.79
+
+-----------Atleta n°108-----------
+Nome: Teresa
+Cognome: Marini
+Anno di Nascita: 1979
+Specialita: Mezzofondo
+Record: 18.94
+
+-----------Atleta n°109-----------
+Nome: Rita
+Cognome: Marino
+Anno di Nascita: 1987
+Specialita: Velocista
+Record: 16.55
+
+-----------Atleta n°110-----------
+Nome: Maria
+Cognome: Martinelli
+Anno di Nascita: 1976
+Specialita: Mezzofondo
+Record: 24.19
+
+-----------Atleta n°111-----------
+Nome: Maria
+Cognome: Martini
+Anno di Nascita: 1989
+Specialita: Fondista
+Record: 20.88
+
+-----------Atleta n°112-----------
+Nome: Rita
+Cognome: Martini
+Anno di Nascita: 1981
+Specialita: Velocista
+Record: 19.55
+
+-----------Atleta n°113-----------
+Nome: Elena
+Cognome: Marini
+Anno di Nascita: 1990
+Specialita: Mezzofondo
+Record: 0.64
+
+-----------Atleta n°114-----------
+Nome: Anna
+Cognome: Marini
+Anno di Nascita: 1990
+Specialita: Fondista
+Record: 15.55
+
+-----------Atleta n°115-----------
+Nome: Franco
+Cognome: Marchetti
+Anno di Nascita: 1963
+Specialita: Mezzofondo
+Record: 11.42
+
+-----------Atleta n°116-----------
+Nome: Rosa
+Cognome: Marchetti
+Anno di Nascita: 1975
+Specialita: Fondista
+Record: 18.74
+
+-----------Atleta n°117-----------
+Nome: Giovanna
+Cognome: Mariani
+Anno di Nascita: 2006
+Specialita: Velocista
+Record: 1.29
+
+-----------Atleta n°118-----------
+Nome: Teresa
+Cognome: Marini
+Anno di Nascita: 1972
+Specialita: Velocista
+Record: 14.82
+
+-----------Atleta n°119-----------
+Nome: Giovanni
+Cognome: Marini
+Anno di Nascita: 1974
+Specialita: Velocista
+Record: 20.73
+
+-----------Atleta n°120-----------
+Nome: Anna
+Cognome: Marino
+Anno di Nascita: 1992
+Specialita: Fondista
+Record: 23.36
+
+-----------Atleta n°121-----------
+Nome: Caterina
+Cognome: Martinelli
+Anno di Nascita: 1982
+Specialita: Mezzofondo
+Record: 5.64
+
+-----------Atleta n°122-----------
+Nome: Elena
+Cognome: Martini
+Anno di Nascita: 1984
+Specialita: Mezzofondo
+Record: 1.04
+
+-----------Atleta n°123-----------
+Nome: Salvatore
+Cognome: Marino
+Anno di Nascita: 1978
+Specialita: Fondista
+Record: 0.46
+
+-----------Atleta n°124-----------
+Nome: Paola
+Cognome: Moretti
+Anno di Nascita: 1988
+Specialita: Fondista
+Record: 6.99
+
+-----------Atleta n°125-----------
+Nome: Lucia
+Cognome: Morelli
+Anno di Nascita: 1999
+Specialita: Mezzofondo
+Record: 13.35
+
+-----------Atleta n°126-----------
+Nome: Bruno
+Cognome: Morelli
+Anno di Nascita: 2000
+Specialita: Mezzofondo
+Record: 5.82
+
+-----------Atleta n°127-----------
+Nome: Aldo
+Cognome: Morelli
+Anno di Nascita: 1963
+Specialita: Fondista
+Record: 11.25
+
+-----------Atleta n°128-----------
+Nome: Angelo
+Cognome: Moretti
+Anno di Nascita: 1992
+Specialita: Velocista
+Record: 16.78
+
+-----------Atleta n°129-----------
+Nome: Paola
+Cognome: Ricci
+Anno di Nascita: 1975
+Specialita: Fondista
+Record: 22.37
+
+-----------Atleta n°130-----------
+Nome: Bruno
+Cognome: Ricci
+Anno di Nascita: 1982
+Specialita: Fondista
+Record: 11.96
+
+-----------Atleta n°131-----------
+Nome: Lucia
+Cognome: Romano
+Anno di Nascita: 2005
+Specialita: Velocista
+Record: 4.63
+
+-----------Atleta n°132-----------
+Nome: Lucia
+Cognome: Romano
+Anno di Nascita: 1970
+Specialita: Velocista
+Record: 17.51
+
+-----------Atleta n°133-----------
+Nome: Luigi
+Cognome: Romano
+Anno di Nascita: 1974
+Specialita: Mezzofondo
+Record: 7.19
+
+-----------Atleta n°134-----------
+Nome: Margherita
+Cognome: Romano
+Anno di Nascita: 1992
+Specialita: Mezzofondo
+Record: 23.98
+
+-----------Atleta n°135-----------
+Nome: Paolo
+Cognome: Romano
+Anno di Nascita: 1975
+Specialita: Mezzofondo
+Record: 8.47
+
+-----------Atleta n°136-----------
+Nome: Vincenzo
+Cognome: Romano
+Anno di Nascita: 1986
+Specialita: Mezzofondo
+Record: 15.69
+
+-----------Atleta n°137-----------
+Nome: Carlo
+Cognome: Rossi
+Anno di Nascita: 1977
+Specialita: Mezzofondo
+Record: 19.54
+
+-----------Atleta n°138-----------
+Nome: Giuseppe
+Cognome: Rossi
+Anno di Nascita: 1981
+Specialita: Velocista
+Record: 10.89
+
+-----------Atleta n°139-----------
+Nome: Vincenzo
+Cognome: Rossi
+Anno di Nascita: 1980
+Specialita: Fondista
+Record: 13.82
+
+-----------Atleta n°140-----------
+Nome: Carla
+Cognome: Rossi
+Anno di Nascita: 1993
+Specialita: Velocista
+Record: 13.39
+
+-----------Atleta n°141-----------
+Nome: Carlo
+Cognome: Rossi
+Anno di Nascita: 1970
+Specialita: Velocista
+Record: 7.31
+
+-----------Atleta n°142-----------
+Nome: Caterina
+Cognome: Rossi
+Anno di Nascita: 1979
+Specialita: Fondista
+Record: 10.14
+
+-----------Atleta n°143-----------
+Nome: Paolo
+Cognome: Russo
+Anno di Nascita: 1976
+Specialita: Velocista
+Record: 10.08
+
+-----------Atleta n°144-----------
+Nome: Giuseppina
+Cognome: Russo
+Anno di Nascita: 1971
+Specialita: Fondista
+Record: 13.82
+
+-----------Atleta n°145-----------
+Nome: Antonietta
+Cognome: Russo
+Anno di Nascita: 2006
+Specialita: Mezzofondo
+Record: 14.09
+
+-----------Atleta n°146-----------
+Nome: Franco
+Cognome: Santoro
+Anno di Nascita: 2006
+Specialita: Velocista
+Record: 17.86
+
+-----------Atleta n°147-----------
+Nome: Luciano
+Cognome: Santoro
+Anno di Nascita: 2003
+Specialita: Mezzofondo
+Record: 22.37
+
+-----------Atleta n°148-----------
+Nome: Franca
+Cognome: Santoro
+Anno di Nascita: 1973
+Specialita: Fondista
+Record: 0.32
+
+-----------Atleta n°149-----------
+Nome: Antonietta
+Cognome: Serra
+Anno di Nascita: 1972
+Specialita: Mezzofondo
+Record: 13.42
+
+-----------Atleta n°150-----------
+Nome: Salvatore
+Cognome: Serra
+Anno di Nascita: 1981
+Specialita: Velocista
+Record: 3.84
+
