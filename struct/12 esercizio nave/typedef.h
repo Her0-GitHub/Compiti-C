@@ -1,7 +1,7 @@
 typedef char Stringa[STRL];
 typedef enum {libero, occupato} Stato_pontile;
 typedef enum {falso, vero} boolean;
-typedef enum {fuori_porto, attesa_in, manovra, attesa_out, attraccata } Stato_nave;
+typedef enum {fuori_porto, attesa_in, manovra, attesa_out, attraccata} Stato_nave;
 
 /* Dati nave */
 typedef struct {

@@ -9,4 +9,4 @@
 #define N_NAVI_IN_CODA 20
 
 #define CODAN porto_NA.coda_navi
-#define PONTILE porto_NA.pontili
+#define PONTILI porto_NA.pontili
