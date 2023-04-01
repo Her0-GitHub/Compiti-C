@@ -6,6 +6,9 @@ int start();
 void sign_up();
 void sign_in();
 
+/// @brief Save struct in file
+void save_on_file();
+
 void encrypt(char []);
 void decrypt(char []);
 
@@ -13,10 +16,11 @@ DataSites site;
 
 int main(){
     ID = 0;
-    sign_up();
-    //start() ? sign_up() : sign_in();
-    //save_on_file();
-    CONTENUTOS
+    while(1){
+        start() ? sign_up() : sign_in();
+        save_on_file();
+    }
+
 }
 int start(){
     printf("Benvenuto nel sito %s\n", NOMESITO);
@@ -74,6 +78,16 @@ void sign_up(){
 }
 void sign_in(){
 
+}
+void save_on_file(){
+    FILE* fUtenti;
+    fUtenti = fopen("utenti.txt", "w");
+    if(!fUtenti){
+        printf("File non trovato!");
+        exit(EXIT_FAILURE);
+    }
+    fprintf("%s;%s;%d;%s\n", NOME, COGNOME, ID, PASSWORD);
+    fclose(fUtenti);
 }
 void encrypt(char pwd[]){
     int dim = (int)strlen(pwd);
