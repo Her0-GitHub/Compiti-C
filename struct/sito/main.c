@@ -86,7 +86,7 @@ void save_on_file(){
         printf("File non trovato!");
         exit(EXIT_FAILURE);
     }
-    fprintf("%s;%s;%d;%s\n", NOME, COGNOME, ID, PASSWORD);
+    fprintf(fUtenti, "%s;%s;%d;%s\n", NOME, COGNOME, ID, PASSWORD);
     fclose(fUtenti);
 }
 void encrypt(char pwd[]){
