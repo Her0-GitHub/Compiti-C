@@ -18,12 +18,11 @@ int main(){
     ID = 0;
     while(1){
         start() ? sign_up() : sign_in();
-        save_on_file();
     }
 
 }
 int start(){
-    printf("Benvenuto nel sito %s\n", NOMESITO);
+    printf("\n\n\nBenvenuto nel sito %s\n", NOMESITO);
     do{
         printf("Azioni possbili: Accedere [A] - Registrarsi [R] - Esci [X]\n.");
         char scelta;
@@ -37,7 +36,7 @@ int start(){
                 puts("Registrazione in corso...");
                 return 1;
             case 'X':
-                puts("Arrivederci a presto.");
+                puts("Arrivederci, a presto.");
                 exit(0);
             default:
                 puts("Comando Sconosciuto, Riprova!");
@@ -64,7 +63,9 @@ void sign_up(){
                 if(PASSWORD[i] == '_' || PASSWORD[i] == '|' || PASSWORD[i] == '\\' || PASSWORD[i] == '/')   condizioneS = true;
                 else if(PASSWORD[i] > 65 && PASSWORD[i] < 90)                                               condizioneM = true;
                 if(condizioneS && condizioneM){
+                    puts("Registrazione eseguita con successo!");
                     encrypt(PASSWORD);
+                    save_on_file();
                     return;
                 }
             }
