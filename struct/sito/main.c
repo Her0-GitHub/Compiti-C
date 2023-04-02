@@ -6,20 +6,31 @@ int start();
 void sign_up();
 void sign_in();
 
-/// @brief Save struct in file
+// File
+int id_from_file();
+/// Save struct in file
 void save_on_file();
+void admin_file();
 
 void encrypt(char []);
-void decrypt(char []);
 
 DataSites site;
 
 int main(){
-    ID = 0;
+    ID = id_from_file();
     while(1){
         start() ? sign_up() : sign_in();
     }
-
+}
+int id_from_file(){
+    FILE* fUtenti = fopen(NOMEFILE, "r");
+    if(!fUtenti){
+        printf("File non trovato!");
+        exit(EXIT_FAILURE);
+    }
+    int tempid = 0;
+    while(fscanf(fUtenti, "%*[^;];%*[^;];%d;%*s\n", &tempid) == 1){}
+    return tempid;
 }
 int start(){
     printf("\n\n\nBenvenuto nel sito %s\n", NOMESITO);
@@ -47,11 +58,11 @@ int start(){
 void sign_up(){
     ID++;
     printf("Inserisci il nome e cognome. [nome.cognome]\n.");
-    scanf("%[^.].%[^\n]", NOME, COGNOME);
+    scanf("\n%49[^.].%49[^\n]", NOME, COGNOME);
     do{
         bool condizioneS = true, condizioneM = true; // inizio true poi settate false se contiene +10 char
         printf("\nInserisci la password\n- Deve essere minimo 10 caratteri (Senza spazi)\n- Un carattere speciale ( _ | \\ /)\n- Almeno una lettera maiuscola\n.");
-        scanf("\n%[^\n]", PASSWORD);
+        scanf("\n%49[^\n]", PASSWORD);
         int lpwd = (int)(strlen(PASSWORD));
         if(lpwd >= 10){
             condizioneM = condizioneS = false;
@@ -78,17 +89,45 @@ void sign_up(){
     }while(1);
 }
 void sign_in(){
-
+    printf("Inserisci il nome e cognome. [nome.cognome]\n.");
+    scanf("\n%49[^.].%49[^\n]", NOME, COGNOME);
+    printf("\nInserisci la password\n.");
+    scanf("\n%49[^\n]", PASSWORD);
+    encrypt(PASSWORD);
+    FILE* fUtenti = fopen(NOMEFILE, "r");
+    if(!fUtenti){
+        printf("File non trovato!");
+        exit(EXIT_FAILURE);
+    }
+    String tnome, tcognome, tpassword;
+    while(fscanf(fUtenti, "%49[^;];%49[^;];%*d;%49s\n", tnome, tcognome, tpassword) == 3){ // cercando online ho trovato che fscanf ritorna il numero di valori che ottiene in input
+        // printf("Nome: %s - Cognome: %s - Password: %s\n", tnome, tcognome, tpassword); debug input da file
+        if(tnome == NOME && tcognome == COGNOME && tpassword == PASSWORD){
+            puts("Acesso Eseguito Corettamente");
+            return;
+        }
+    }
+    puts("Nome Utente o Password Errati.");
 }
 void save_on_file(){
-    FILE* fUtenti;
-    fUtenti = fopen("utenti.txt", "w");
+    FILE *fUtenti;
+    fUtenti = fopen(NOMEFILE, "a");
     if(!fUtenti){
         printf("File non trovato!");
         exit(EXIT_FAILURE);
     }
     fprintf(fUtenti, "%s;%s;%d;%s\n", NOME, COGNOME, ID, PASSWORD);
     fclose(fUtenti);
+}
+    /* @todo
+    * - Ottenere tutti i nomi
+    * - ordinarli
+    * - Stamparli in un nuovo file
+    */
+void admin_file(){
+    char **input_file = NULL;
+    input_file = (char*)malloc(sizeof(char *) * n_r);
+
 }
 void encrypt(char pwd[]){
     int dim = (int)strlen(pwd);
@@ -108,30 +147,6 @@ void encrypt(char pwd[]){
                 break;
             case 'u':
                 pwd[i] = UCHANGE;
-                break;
-            default:
-                break;
-        }
-    }
-}
-void decrypt(char pwd[]){
-    int dim = (int)strlen(pwd);
-    for(int i = 0; i<dim; i++){
-        switch(pwd[i]){
-            case ACHANGE:
-                pwd[i] = 'a';
-                break;
-            case ECHANGE:
-                pwd[i] = 'e';
-                break;
-            case ICHANGE:
-                pwd[i] = 'i';
-                break;
-            case OCHANGE:
-                pwd[i] = 'o';
-                break;
-            case UCHANGE:
-                pwd[i] = 'u';
                 break;
             default:
                 break;

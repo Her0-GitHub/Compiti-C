@@ -20,3 +20,5 @@
 #define ID site.id_utente
 #define PASSWORD site.password
 #define CONTENUTOS printf("\t%s; %s; %d; %s\n\n", NOME, COGNOME, ID, PASSWORD);
+
+#define NOMEFILE "utenti.txt"
